@@ -33,8 +33,9 @@
 ### Qutoes written by Buddha
 
 > "Work out your own salvation. Do not depend on others." 
-> - *Buddha*
+> -*Buddha*
+>
 > "There is no fear for one whose mind is not filled with desires."
-> - *Buddha*
+> -*Buddha*
 
 
