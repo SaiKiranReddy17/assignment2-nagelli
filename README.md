@@ -17,4 +17,3 @@
     * Panama city beach
 * Disney world
 * kennedy space center.
-    
