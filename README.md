@@ -19,3 +19,13 @@
 * kennedy space center.
 
 [AboutMe](https://github.com/SaiKiranReddy17/assignment2-nagelli/blob/main/AboutMe.md)
+
+---
+| food | location | Price |
+| ---| ---| ---: |
+| pot Biryani | Kritunga | 6$ |
+| coffee | starbucks | 8$ |
+| sandwich | chick-fill-A | 8$|
+| lemonade | sonic | 10$ |
+
+
